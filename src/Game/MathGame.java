@@ -2,6 +2,7 @@ package Game;
 
 import java.util.Scanner;
 import java.util.InputMismatchException;
+import java.awt.Graphics;  
 
 public class MathGame {
   static void menu() {
